@@ -1,1 +1,4 @@
 Text-to-Image Generator Web Application Using React.js for Dynamic Image Creation and Storage I led the development of a Generative AI Text-to-Image Generation Platform.I built the end-to-end application using React.js, Tailwind CSS on the frontend.Users could input prompts,trigger backend model inference, and view or save generated images—creating a seamless AI-powered user experience.
+<img width="1439" height="900" alt="Screenshot 2025-10-28 at 3 05 16 AM" src="https://github.com/user-attachments/assets/9a176ae4-8539-4d91-9870-a3133e68109d" />
+<img width="1439" height="900" alt="Screenshot 2025-10-28 at 3 05 29 AM" src="https://github.com/user-attachments/assets/544ff37d-f3ed-4d80-b215-05758d76b949" />
+<img width="1439" height="900" alt="Screenshot 2025-10-28 at 3 06 01 AM" src="https://github.com/user-attachments/assets/46b81d96-461b-4b6b-8bb2-0a9f4927533c" />
